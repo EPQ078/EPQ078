@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @EPQ078
-- 👀 I’m interested in createing awsome product flows  
+- 👋 Hi, I’m Victor Andreasson and scrum master/ developer in Tiger Kings, Product team
+- 👀 I’m interested in createing awesome product flows  
 - 🌱 I’m currently learning How all systems and integration is conected at apoteket hjärtat
 - 💞️ I’m looking to collaborate with Product.api 
 - 📫 How to reach me on. slack or epost
